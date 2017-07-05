@@ -1,0 +1,33 @@
+.container {
+height: 100vw;
+width: 100vw;
+display: flex;
+justify-content: space-between;
+}
+.left {
+background-color: blue;
+float: left;
+width: 33%;
+}
+.middle {
+background-color: green;
+float: left;
+width: 34%;
+}
+.right {
+background-color: yellow;
+float: left;
+position: relative;
+width: 33%;
+}
+.picture {
+  background-color: red;
+  height: 11%;
+  width: 100%;
+  bottom: 0;
+  position: absolute;
+  color: white;
+  text-align: center;
+  vertical-align: middle;
+  font-size: 40px;
+}

@@ -1,0 +1,21 @@
+
+.header{
+  background-color: #808B96;
+  height: 20vh;
+}
+body {
+  background-color: grey;
+  margin: 0px;
+}
+.midpage {
+  background-color: #fff;
+  height: 80vh;
+  width: 80%;
+  margin: 0 auto;
+}
+.midfoot {
+  background-color: #000;
+  height: 40px;
+  width: 80%;
+  margin: 0 auto;
+}
